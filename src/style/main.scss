@@ -1,0 +1,20 @@
+@import "partials/header";
+@import "partials/content";
+@import "partials/footer";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1400px;
+  color: #666666;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, b {
+  color: black;
+}
